@@ -31,16 +31,18 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amit-y11&repo=tglivesubsapi&title_color=0366DE&text_color=24292E&icon_color=4AB197&bg_color=f5f5f5" />
 </a>
 
-<br>
-
 <a href="https://github.com/amit-y11/Intrepidkey">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amit-y11&repo=Intrepidkey&title_color=0366DE&text_color=24292E&icon_color=4AB197&bg_color=f5f5f5" />
 </a>
+<br>
 
 <a href="https://github.com/amit-y11/link-expert-bot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amit-y11&repo=link-expert-bot&title_color=0366DE&text_color=24292E&icon_color=4AB197&bg_color=f5f5f5" />
 </a>
 
+<a href="https://github.com/amit-y11/plant_identifier">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amit-y11&repo=plant_identifier&title_color=0366DE&text_color=24292E&icon_color=4AB197&bg_color=f5f5f5" />
+</a>
 <br>
 <br>
 
