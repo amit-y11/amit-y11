@@ -7,6 +7,8 @@
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E13T1B4)
+
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amit-y11/&title=Profile%20Views)
 
 ### My Skills 👨‍💻
