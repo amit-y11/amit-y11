@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with my projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him
+- ⚡ Fun Fact: I love to play chess♟️ in my free time
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E13T1B4)
 
