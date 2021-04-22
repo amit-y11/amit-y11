@@ -1,6 +1,5 @@
 ### Hi there I am Amit Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on Tic Tac Toe game based on HTML CSS and JavaScript
 - 🌱 I’m currently learning Web Development, Android Development.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with my projects.
