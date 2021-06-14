@@ -11,16 +11,16 @@
 
 ### My Skills 👨‍💻
 
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
+<img align="left" alt="Python" width="24px" src="icons/python.png" style='margin:0 10px;'/>
+<img align="left" alt="Flask" width="24px" src="icons/flask.png" style='margin:0 10px;'/>
+<img align="left" alt="GitHub" width="24px" src="icons/github.png" style='margin:0 10px;'/>
+<img align="left" alt="MongoDB" width="24px" src="icons/mongodb.png" style='margin:0 10px;'/>
+<img align="left" alt="MySQL" width="24px" src="icons/mysql.png" style='margin:0 10px;'/>
+<img align="left" alt="C" width="24px" src="icons/c.png" style='margin:0 10px;'/>
+<img align="left" alt="C++" width="24px" src="icons/cpp.png" style='margin:0 10px;'/>
+<img align="left" alt="HTML" width="24px" src="icons/html.png" style='margin:0 10px;'/>
+<img align="left" alt="CSS" width="24px" src="icons/css.png" style='margin:0 10px;'/>
+<img align="left" alt="JavaScript" width="24px" src="icons/javascript.png" style='margin:0 10px;'/>
 <br><br>
 
 ### Stats ⚡️
