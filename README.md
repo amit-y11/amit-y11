@@ -1,6 +1,6 @@
-### Hi there I am Amit Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there I am Amit Yadav 
 
-- 🌱 I’m currently learning Web Development, Android Development.
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with my projects.
 - 💬 Ask me about anything.
